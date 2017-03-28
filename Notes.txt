@@ -1,0 +1,11 @@
+pwd - print working directory
+cd Development/C    (from home)
+to get home cd
+ll - long list (alias for ls -al)
+ls - short list
+
+
+cp - copy (cp oldfilename newfilename)
+gcc - compiler (gcc filename)
+gcc filename -o desiredname
+./a.out (to run)
